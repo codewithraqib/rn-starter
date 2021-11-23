@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701717022758",
+    "project_id": "qpedia-314510",
+    "storage_bucket": "qpedia-314510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701717022758:android:45f82a363f1a7c2924fee7",
+        "android_client_info": {
+          "package_name": "apps.bracecodes.qpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701717022758-4fovr1er2g8defbqiojb4qfim3keel4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQAqerAPBuM-H_muUw3Ts8BzXiQf4ItM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701717022758-4fovr1er2g8defbqiojb4qfim3keel4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

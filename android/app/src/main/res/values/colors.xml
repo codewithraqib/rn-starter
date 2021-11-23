@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="onesignal_bgimage_notif_title_color">#FF5C5F00</color>
+    <color name="primary_dark">#000000</color>
+    <color name="status_bar_color">#FC8332</color>
+</resources>
